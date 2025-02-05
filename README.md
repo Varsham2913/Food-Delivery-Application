@@ -20,19 +20,17 @@
 ## 📝 Project Structure 
 ```
 FoodDeliveryApplication/
-├── src/main/java/
-│   ├── com.tap.dao/                  # DAO interfaces      
-│   ├── com.tap.daoimplementation/    # DAO implementation classes          
-│   ├── com.tap.model/                # Model classes (User, Order, Restaurant, etc.)
-│   ├── com.tap.servlet/              # Servlets handling requests
-│   ├── com.tap.utility/              # Database connection utility
-│ 
-├── webapp/
-│   ├── images/                  # Images, animation video, sound files
-│   ├── jspFiles/                # All JSP pages
-│   ├── styles/                  # CSS files
-│   ├── WEB-INF/
-│   │   ├── lib/                 # MySQL Connector JAR
-│   │   ├── web.xml              # Deployment descripto
+├── src/main/
+│        ├──java/
+│           ├── com.tap.dao/                  # DAO interfaces      
+│           ├── com.tap.daoimplementation/    # DAO implementation classes          
+│           ├── com.tap.model/                # Model classes (User, Order, Restaurant, etc.)
+│           ├── com.tap.servlet/              # Servlets handling requests
+│           ├── com.tap.utility/              # Database connection utility
+│        ├── webapp/
+├           ├── images/                       # Images, animation video, sound files
+│           ├── jspFiles/                     # All JSP pages
+│                   
+├──README.md  
   
 ```
