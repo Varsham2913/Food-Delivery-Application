@@ -28,7 +28,7 @@ FoodDeliveryApplication/
 │           ├── com.tap.model/                # Model classes (User, Order, Restaurant, etc.)
 │           ├── com.tap.servlet/              # Servlets handling requests
 │           ├── com.tap.utility/              # Database connection utility
-│          ├── database/                        # All tables are present
+│        ├── database/                        # All tables are present
 │        ├── webapp/
 ├           ├── images/                       # Images, animation video, sound files
 │           ├── jspFiles/                     # All JSP pages
@@ -85,5 +85,17 @@ FoodDeliveryApplication/
 
 ## Contact
   For any queries, reach out at [varsham2k20@gmail.com]
+
+## Snapshots
+
+![WhatsApp Image 2025-02-05 at 13 06 03_a6419f6c](https://github.com/user-attachments/assets/95de4ba9-b051-4fe7-823c-1a02eec32093)
+
+![WhatsApp Image 2025-02-05 at 13 21 01_bf642682](https://github.com/user-attachments/assets/154c4a7e-ef3e-4631-911e-b505d4e470ac)
+
+![WhatsApp Image 2025-02-05 at 13 06 50_57b4768e](https://github.com/user-attachments/assets/0c033593-38db-4f69-8449-4f7bd3bca676)
+
+![WhatsApp Image 2025-02-05 at 13 07 16_ed6bb900](https://github.com/user-attachments/assets/9d337dd7-ed3a-4b4f-a245-cbb0f30c5250)
+
+
 
   
